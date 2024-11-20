@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giorgi Giorgobiani</h1>
-<h3 align="center">A passionate Backend developer from Georgia.</h3>
+<h3 align="center">A passionate Back-End developer from Georgia.</h3>
 
 - 🌱 I’m currently learning **Web Developments.**
 
